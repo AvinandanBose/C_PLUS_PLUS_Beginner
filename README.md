@@ -34,12 +34,6 @@ Its the beginner series of C++
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/7thProgram_displaymessage.cpp"> Display Message </a> </strong></li>
 </ul>
 
-<h1> <strong>Display Message </strong></h1>
-<ul>
-  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/7thProgram_displaymessage.cpp"> Display Message </a> </strong></li>
-</ul>
-
-
 <h1> <strong>Operators in C++ </strong></h1>
 <ul>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/10thProgram_Operators_ArithmeticOperator.cpp"> Arithmetic Operator </a> </strong></li>
