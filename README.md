@@ -82,4 +82,4 @@ Its the beginner series of C++
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/25thProgram_SpecialOperators_sizeof.cpp"> SizeOf Operator </a> </strong></li>
 </ul>
 
-
+<h1> <strong>TypeDef Statement </strong></h1>
