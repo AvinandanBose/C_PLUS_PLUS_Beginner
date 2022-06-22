@@ -34,6 +34,16 @@ Its the beginner series of C++
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/7thProgram_displaymessage.cpp"> Display Message </a> </strong></li>
 </ul>
 
+<h1> <strong>Scope Resolution Operator </strong></h1>
+<ul>
+  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/8thProgram_scoperesolutionoperator.cpp"> Scope Resolution Operator </a> </strong></li>
+</ul>
+
+<h1> <strong>Registry Keyword </strong></h1>
+<ul>
+  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/9thProgram_registerkeyword.cpp"> Registry Keyword </a> </strong></li>
+</ul>
+
 <h1> <strong>Operators in C++ </strong></h1>
 <ul>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/10thProgram_Operators_ArithmeticOperator.cpp"> Arithmetic Operator </a> </strong></li>
