@@ -83,3 +83,6 @@ Its the beginner series of C++
 </ul>
 
 <h1> <strong>TypeDef Statement </strong></h1>
+<ul>
+  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/26thProgram_TypeDefStatement.cpp"> TypeDef Statement </a> </strong></li>
+</ul>
