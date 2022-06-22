@@ -79,6 +79,7 @@ Its the beginner series of C++
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/22thProgram_SpecialOperators_Comma.cpp"> Comma Operator </a> </strong></li>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/23thProgram_SpecialOperators_indirection.cpp"> Indirection or Arrow Operator </a> </strong></li>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/24thProgram_SpecialOperators_MemberSelection.cpp"> MemberSelection Operator </a> </strong></li>
+  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/25thProgram_SpecialOperators_sizeof.cpp"> SizeOf Operator </a> </strong></li>
 </ul>
 
 
