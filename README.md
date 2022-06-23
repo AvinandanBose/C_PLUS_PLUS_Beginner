@@ -90,3 +90,9 @@ Its the beginner series of C++
 <ul>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/26thProgram_TypeDefStatement.cpp"> TypeDef Statement </a> </strong></li>
 </ul>
+
+<h1> <strong>More on Constants </strong></h1>
+
+<ul>
+  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/27thProgram_Constants_IntegerConstants.cpp"> Integer Constants </a> </strong></li>
+</ul>
