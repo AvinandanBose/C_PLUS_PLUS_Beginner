@@ -94,5 +94,7 @@ Its the beginner series of C++
 <h1> <strong>More on Constants </strong></h1>
 
 <ul>
-  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/27thProgram_Constants_IntegerConstants.cpp"> Integer Constants </a> </strong></li>
+  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/27thProgram_Constants_IntegerConstants.cpp"> Integer Constants </a> </strong>
+  </li>
+  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/27thProgram_Constants_FloatingPointConstants.cpp"> Floating Point Constants </a> </strong></li>
 </ul>
