@@ -97,4 +97,5 @@ Its the beginner series of C++
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/27thProgram_Constants_IntegerConstants.cpp"> Integer Constants </a> </strong>
   </li>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/27thProgram_Constants_FloatingPointConstants.cpp"> Floating Point Constants </a> </strong></li>
+   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/28thProgram_Constants_CharacterConstants.cpp"> Character Constants </a> </strong></li>
 </ul>
