@@ -7,7 +7,7 @@ int main(){
     cin>>age;
     if(age<0){
         cout<<"Invalid age"<<"\n";
-        goto MyName;
+        
     }
     else if(age<18){
         cout<<"You are not eligible to vote"<<"\n";
