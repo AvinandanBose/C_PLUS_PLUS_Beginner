@@ -112,3 +112,4 @@ Its the beginner series of C++
 
 <h1>Looping Statements</h1>
 <h3>Loops cause a section of code to be executed repeatedly until a termination condition is met. The following are the looping statements supported in C++</h3>
+<h3>a. <ins> Enty Controlled Loop </ins> : Checks Condition At Entry Level </h3>
