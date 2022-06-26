@@ -106,5 +106,5 @@ Its the beginner series of C++
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/29thProgram_SIngleIfStatement.cpp">Single If Statement </strong></li>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/30thProgram_If_ELSE_STATEMENT.cpp"> If-Else Statement </strong></li>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/31thProgram_Nested_If_ELSE_STATEMENT.cpp"> Nested If-Else Statement </strong></li>
-  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/31thProgram_Nested_If_ELSE_STATEMENT.cpp"> Ladder If-Else Statement </strong> </li>
+  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/32thProgram_Ladder_If_ELSE_STATEMENT.cpp"> Ladder If-Else Statement </strong> </li>
 </ul>
