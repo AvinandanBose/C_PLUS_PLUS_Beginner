@@ -117,6 +117,8 @@ Its the beginner series of C++
 <ul>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/34thProgram_ForStatement.cpp">For Statement </strong></li>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/35thProgram_NestedForStatement.cpp">Nested For Statement </strong></li>
+  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/36thProgram_WhileStatement.cpp">While Statement </strong></li>
+   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/37thProgram_NestedWhileStatement.cpp">Nested While Statement </strong></li>
   
 </ul>
 
