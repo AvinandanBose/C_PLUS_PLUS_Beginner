@@ -137,7 +137,8 @@ Its the beginner series of C++
 <h3>Jump statements cause an unconditional jump to another statement elsewhere in the code supported in C++</h3>
 <h3> * <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/33thProgram_GoToStatement.cpp"> Go-To Statement </a></strong> is a Branching Statement is one of the Jump Statement, already done*  </h3>
 <ul>
-  
+  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/40thProgram_BreakStatement.cpp">Break Statement </strong></li>
+  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/41thProgram_ContinueStatement.cpp">Continue Statement </strong></li>
   
 </ul>
 
