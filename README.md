@@ -112,13 +112,19 @@ Its the beginner series of C++
 
 <h1>Looping Statements</h1>
 <h3>Loops cause a section of code to be executed repeatedly until a termination condition is met. The following are the looping statements supported in C++</h3>
-<h3>a. <ins> Enty Controlled Loop </ins> : Checks Condition At Entry Level </h3>
+<h3>a. <ins> Entry Controlled Loop </ins> : Checks Condition At Entry Level </h3>
 
 <ul>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/34thProgram_ForStatement.cpp">For Statement </strong></li>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/35thProgram_NestedForStatement.cpp">Nested For Statement </strong></li>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/36thProgram_WhileStatement.cpp">While Statement </strong></li>
    <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/37thProgram_NestedWhileStatement.cpp">Nested While Statement </strong></li>
+  
+</ul>
+
+<h3>a. <ins> Exit Controlled Loop </ins> : Checks Condition At Exit Level </h3>
+<ul>
+ 
   
 </ul>
 
