@@ -144,4 +144,7 @@ Its the beginner series of C++
 
 <h1>Selection Statements</h1>
 <h3>Selection statements allow a program to test several conditions, and execute instructions based on which condition is true.</h3>
+<ul>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/42thProgram_SwitchCaseStatements.cpp">Switch Case Statement</strong></li>
+</ul>
 
