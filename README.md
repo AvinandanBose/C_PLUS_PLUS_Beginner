@@ -114,7 +114,7 @@ Its the beginner series of C++
      <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/33thProgram_GoToStatement.cpp"> Go-To Statement </strong> </li>
 </ul>
 
-<h1>Looping Statements/ Iteratiion Statements</h1>
+<h1>Looping Statements/ Iteration Statements</h1>
 <h3>Loops cause a section of code to be executed repeatedly until a termination condition is met. The following are the looping statements supported in C++</h3>
 <h3>a. <ins> Entry Controlled Loop </ins> : Checks Condition At Entry Level </h3>
 
