@@ -102,11 +102,15 @@ Its the beginner series of C++
 
 <h1>Branching Statements</h1>
 <h3>Branching statements alter sequential execution of program statements. Following are the branching statements supported by C++ </h3>
+<h3>a. <ins> Decision Making Statement </ins> : Decision making statements allow you to decide the order of execution of specific statements in our program. It is done by setting up a condition and when the decided condition is met , desired statements gets executed.  </h3>
 <ul>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/29thProgram_SIngleIfStatement.cpp">Single If Statement </strong></li>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/30thProgram_If_ELSE_STATEMENT.cpp"> If-Else Statement </strong></li>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/31thProgram_Nested_If_ELSE_STATEMENT.cpp"> Nested If-Else Statement </strong></li>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/32thProgram_Ladder_If_ELSE_STATEMENT.cpp"> Ladder If-Else Statement </strong> </li>
+ </ul>
+ <h3>b. <ins> Jump Statement </ins> :(explained below)  </h3>
+ <ul>
      <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/33thProgram_GoToStatement.cpp"> Go-To Statement </strong> </li>
 </ul>
 
