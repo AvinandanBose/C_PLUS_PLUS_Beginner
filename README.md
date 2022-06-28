@@ -122,7 +122,7 @@ Its the beginner series of C++
   
 </ul>
 
-<h3>a. <ins> Exit Controlled Loop </ins> : Checks Condition At Exit Level </h3>
+<h3>b. <ins> Exit Controlled Loop </ins> : Checks Condition At Exit Level </h3>
 <ul>
  
   
