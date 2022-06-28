@@ -1,3 +1,4 @@
+/*It stops when condition is met*/
 #include<iostream>
 using namespace std;
 int main(){
