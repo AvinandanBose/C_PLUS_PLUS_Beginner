@@ -29,5 +29,8 @@ s = s+1 = 2
 m = 12%10 = 2
 num = 12/10 = 1
 s = s+1 = 3
+m = 1%10 = 1
+num = 1/10 = 0
+s = s+1 = 4
 Therefore length of digit is : 3
 */
