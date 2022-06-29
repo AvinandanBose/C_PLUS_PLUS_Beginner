@@ -153,4 +153,9 @@ Its the beginner series of C++
 <ul>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/43thProgram_FixedIntegerConstants.cpp">Fixed Width Integer Types </strong></li>
 </ul>
+
+<h1> More Examples </h1>
+<ul>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/45thProgram_Example_1.cpp">Example 1:Length of Digits</strong></li>
+</ul>
   
