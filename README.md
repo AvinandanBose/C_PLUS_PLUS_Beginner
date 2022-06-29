@@ -148,3 +148,9 @@ Its the beginner series of C++
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/42thProgram_SwitchCaseStatements.cpp">Switch Case Statement</strong></li>
 </ul>
 
+<h1>Fixed Width Integer Types (since C++11) </h1>
+<h3>Includes the Standard C library header <stdint.h> and adds the associated names to the std namespace. Including this header ensures that the names declared using external linkage in the Standard C library header are declared in the std namespace.</h3>
+<ul>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/43thProgram_FixedIntegerConstants.cpp">Fixed Width Integer Types </strong></li>
+</ul>
+  
