@@ -158,5 +158,6 @@ Its the beginner series of C++
 <ul>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/45thProgram_Example_1.cpp">Example 1:Length of Digits</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/46thProgram_Example_2.cpp">Example 2:Armstrong Number</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/47thProgram_Example_3.cpp">Example 2:Armstrong Number upto a range</strong></li>
 </ul>
   
