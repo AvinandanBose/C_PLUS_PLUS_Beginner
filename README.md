@@ -161,5 +161,7 @@ Its the beginner series of C++
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/47thProgram_Example_3.cpp">Example 3:Armstrong Number upto a range</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/48thProgram_Example_4.cpp">Example 4:Reverse of a number</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/49thProgram_Example_5.cpp">Example 5:Factorial of a number</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/50thProgram_Example_6.cpp">Example 6:Strong Number or Krishnamurthy Number Number</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/51thProgram_Example_7.cpp">Example 7:Strong Number or Krishnamurthy Number upto a Range</strong></li>
 </ul>
   
