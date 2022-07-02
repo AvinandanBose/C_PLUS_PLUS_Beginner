@@ -164,5 +164,7 @@ Its the beginner series of C++
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/50thProgram_Example_6.cpp">Example 6:Strong Number or Krishnamurthy Number Number</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/51thProgram_Example_7.cpp">Example 7:Strong Number or Krishnamurthy Number upto a Range</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/52thProgram_Example_8.cpp">Example 8:Sum of all digits upto a given range</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/53thProgram_Example_9.cpp">Example 9:Perfect Number</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/54thProgram_Example_10.cpp">Example 10:Perfect Number upto a given range</strong></li>
 </ul>
   
