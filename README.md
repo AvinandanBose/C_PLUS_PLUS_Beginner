@@ -167,5 +167,6 @@ Its the beginner series of C++
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/53thProgram_Example_9.cpp">Example 9:Perfect Number</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/54thProgram_Example_10.cpp">Example 10:Perfect Number upto a given range</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/55thProgram_Example_11.cpp">Example 11:Fibonacci Series upto a given range</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/56thProgram_Example_12.cpp">Example 12:Highest Common Factor/Greatest Common Divisor</strong></li>
 </ul>
   
