@@ -169,5 +169,7 @@ Its the beginner series of C++
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/55thProgram_Example_11.cpp">Example 11:Fibonacci Series upto a given range</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/56thProgram_Example_12.cpp">Example 12:Highest Common Factor/Greatest Common Divisor</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/57thProgram_Example_13.cpp">Example 13:Least Common Factor/ Least Common Multiple</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/58thProgram_Example_14.cpp">Example 14:Automorphic Number</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/59thProgram_Example_15.cpp">Example 15:Automorphic Number upto a given Range</strong></li>
 </ul>
   
