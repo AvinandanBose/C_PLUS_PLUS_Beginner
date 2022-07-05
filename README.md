@@ -171,5 +171,7 @@ Its the beginner series of C++
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/57thProgram_Example_13.cpp">Example 13:Least Common Factor/ Least Common Multiple</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/58thProgram_Example_14.cpp">Example 14:Automorphic Number</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/59thProgram_Example_15.cpp">Example 15:Automorphic Number upto a given Range</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/60thProgram_Example_16.cpp">Example 16:Prime Number using Flag(1)</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/61stProgram_Example_17.cpp">Example 17:Prime Number using Flag upto a given Range(1)(1)</strong></li>
 </ul>
   
