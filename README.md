@@ -177,5 +177,9 @@ Its the beginner series of C++
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/63rdProgram_Example_19.cpp">Example 19:Prime Number using Flag Type 2(2)upto a given range</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/64rdProgram_Example_20.cpp">Example 20:Prime Number using Boolean Flag Type  upto a given range</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/65thProgram_Example_21.cpp">Example 21:Prime Number using Boolean Flag Type  upto a given range(1)</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/66thProgram_Example_22.cpp">Example 22:Composite Numbers upto a range -1</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/67thProgram_Example_23.cpp">Example 23:Composite Numbers upto a range -2</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/68thProgram_Example_24.cpp">Example 24:Composite Numbers upto a range -3</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/69thProgram_Example_25.cpp">Example 25:Composite Numbers upto a range -4</strong></li>
 </ul>
   
