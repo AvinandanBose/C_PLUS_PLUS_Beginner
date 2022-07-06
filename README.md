@@ -175,5 +175,7 @@ Its the beginner series of C++
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/61stProgram_Example_17.cpp">Example 17:Prime Number using Flag upto a given Range(1)(1)</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/62ndProgram_Example_18.cpp">Example 18:Prime Number using Flag Type 2</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/63rdProgram_Example_19.cpp">Example 19:Prime Number using Flag Type 2(2)upto a given range</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/64rdProgram_Example_20.cpp">Example 20:Prime Number using Boolean Flag Type  upto a given range</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/65thProgram_Example_21.cpp">Example 21:Prime Number using Boolean Flag Type  upto a given range(1)</strong></li>
 </ul>
   
