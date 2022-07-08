@@ -186,5 +186,6 @@ Its the beginner series of C++
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/69thProgram_Example_25.cpp">Example 25:Composite Numbers upto a range -4</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/70thProgram_Example_26.cpp">Example 26:Palindromic Number </strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/71thProgram_Example_27.cpp">Example 27:Palindromic Number upto a given Range</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/80thProgram_Functions_10.cpp">Example 27:Twin Prime</strong></li>
 </ul>
   
