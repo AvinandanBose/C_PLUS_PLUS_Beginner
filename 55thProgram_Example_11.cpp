@@ -24,7 +24,10 @@
         for (int i = 0; i < range; i++)
         {
             c = a + b;
-            cout << c << "\n";
+            if(c>0){
+                cout << c << "\n";
+
+            }
             a = b;
             b = c;
         }
