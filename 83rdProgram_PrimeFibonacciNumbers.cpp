@@ -15,7 +15,7 @@ int main(){
                 break;
             }
         }
-        if(s==0){
+        if(thirdTerm>1 and s==0){
             cout << thirdTerm << "\n";
         }
         firstTerm = secondTerm;
