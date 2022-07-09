@@ -1,6 +1,6 @@
 /*********
- * Binary to Decimal: 
- * Given a Binary number, convert it to decimal number.
+ * Octal to Decimal: 
+ * Given a Octal number, convert it to decimal number.
  * ************************************************************************/
 
 #include<iostream>
