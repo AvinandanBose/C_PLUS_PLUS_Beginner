@@ -1,6 +1,6 @@
 /* ********
 Armstrong Number : 
-A number is an Armstrong number if the sum of the cubes of its digits is equal to the 
+A number is an Armstrong number if the sum of the power of its digits is equal to the 
 number itself.
 
 *********/
