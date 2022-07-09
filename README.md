@@ -191,5 +191,7 @@ Its the beginner series of C++
  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/83rdProgram_PrimeFibonacciNumbers.cpp">Example 30:Prime Fibonacci Numbers Upto A Given Range</strong></li>
  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/84rthProgram_PalindromicPrime.cpp">Example 31:Palindromic Prime(PAL PRIME)</strong></li>
  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/85thProgram_PalindromicPrimeuptoARange.cpp">Example 32:Palindromic Prime(PAL PRIME) upto A Given Range</strong></li>
+ <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/86thProgram_DecimalToBinary.cpp">Example 33:Decimal To Binary(For a single decimal digit input)</strong></li>
+  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/87thProgram_DecimalToBinaryUptoAGivenRange.cpp">Example 34:Decimal To Binary For a given Range</strong></li>
 </ul>
   
