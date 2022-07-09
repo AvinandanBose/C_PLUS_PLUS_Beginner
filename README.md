@@ -189,5 +189,7 @@ Its the beginner series of C++
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/80thProgram_Functions_10.cpp">Example 28:Twin Prime</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/82ndProgram_NonFibonacciNumbers_UptoARange.cpp">Example 29:Non Fibonacci Numbers Upto A Given Range</strong></li>
  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/83rdProgram_PrimeFibonacciNumbers.cpp">Example 30:Prime Fibonacci Numbers Upto A Given Range</strong></li>
+ <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/84rthProgram_PalindromicPrime.cpp">Example 31:Palindromic Prime(PAL PRIME)</strong></li>
+ <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/85thProgram_PalindromicPrimeuptoARange.cpp">Example 32:Palindromic Prime(PAL PRIME) upto A Given Range</strong></li>
 </ul>
   
