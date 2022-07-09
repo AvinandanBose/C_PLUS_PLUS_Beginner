@@ -193,5 +193,7 @@ Its the beginner series of C++
  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/85thProgram_PalindromicPrimeuptoARange.cpp">Example 32:Palindromic Prime(PAL PRIME) upto A Given Range</strong></li>
  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/86thProgram_DecimalToBinary.cpp">Example 33:Decimal To Binary(For a single decimal digit input)</strong></li>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/87thProgram_DecimalToBinaryUptoAGivenRange.cpp">Example 34:Decimal To Binary For a given Range</strong></li>
+  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/88thProgram_DecimalToOctal.cpp">Example 35:Decimal To Octal(For a single decimal digit input)</strong></li>
+  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/89thProgram_DecimalToOctalUptoAGivenRange.cpp">Example 36:Decimal To Octal(Upto a Given Range)</strong></li>
 </ul>
   
