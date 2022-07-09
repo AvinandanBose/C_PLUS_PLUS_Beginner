@@ -2,7 +2,7 @@
 Twin Prime: A twin prime is a prime and having a difference of 2 between the two prime 
 numbers. For example, 5 is a twin prime with 7.
 Hence : (3,5),(5,7),(11,13),(17,19),
-(23,25),(29,31),(41,43),(47,49),(53,55),(59,61),(71,73),(79,81),(83,85),(97,99) etc.
+(23,25),(29,31),(41,43),(47,49),(53,55),(59,61),(71,73),(101,103) etc.
 are all Twin Primes .
 Note : (2,3 )are not at all twin primes as they differ by 1.
 **********/
