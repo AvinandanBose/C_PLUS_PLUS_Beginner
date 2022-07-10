@@ -197,5 +197,7 @@ Its the beginner series of C++
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/89thProgram_DecimalToOctalUptoAGivenRange.cpp">Example 36:Decimal To Octal(Upto a Given Range)</strong></li>
  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/90thProgram_BinaryToDecimal.cpp">Example 37:Binary To Decimal</strong></li>
  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/91stProgram_OctalToDecimal.cpp">Example 38:Octal To Decimal</strong></li>
+ <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/92ndProgram_BuzzNumber.cpp">Example 39:Buzz Number</strong></li>
+ <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/93rdProgram_BuzzNumberUptoARange.cpp">Example 40:Buzz Number Upto A Given Range</strong></li>
 </ul>
   
