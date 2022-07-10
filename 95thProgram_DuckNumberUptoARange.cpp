@@ -20,12 +20,12 @@ int main(){
             temp = temp/10;
             count = count+1;
         }
-        for(int i=1;i<=count;i++){
+        for(int j=1;j<=count;j++){
             digit = temp1%10;
             first_digit = digit;
             temp1 = temp1/10;
         }
-        for(int j=1 ; j<=count; j++){
+        for(int k=1 ; k<=count; k++){
             digit1 = temp2%10;
             temp2 = temp2/10;
             if(digit1==0){
