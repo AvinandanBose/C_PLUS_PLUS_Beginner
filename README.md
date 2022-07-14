@@ -203,5 +203,15 @@ Its the beginner series of C++
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/95thProgram_DuckNumberUptoARange.cpp">Example 42:Duck Number Upto A Range</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/96thProgram_NeonNumber.cpp">Example 43:Neon Number</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/97thProgram_NeonNumberUptoARange.cpp">Example 44:Neon Number Upto A Given Range</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/98thProgram_SumOfDigitsUptoAGivenRange.cpp">Example 45:Sum Of Digits of a number</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/99thProgram_EvenNumberUptoAGivenRange.cpp">Example 46:Even Number Upto A Given Range</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/100thProgram_OddNumbersUptoAGivenRange.cpp">Example 47:ODD Number Upto A Given Range</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/101Program_SwappingUsingThirdVariable.cpp">Example 48:Swapping Using Third Variable</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/101Program_SwappingWithoutUsingThirdVariable.cpp">Example 49:Swapping Without Using Third Variable</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/102ndProgram_SwappingUsingXOR.cpp">Example 50:Swapping Using XOR Operation </strong></li>
+</ul>
+
+<h1> Patterns: </h1>
+<ul>
 </ul>
   
