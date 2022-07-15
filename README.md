@@ -207,8 +207,9 @@ Its the beginner series of C++
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/99thProgram_EvenNumberUptoAGivenRange.cpp">Example 46:Even Number Upto A Given Range</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/100thProgram_OddNumbersUptoAGivenRange.cpp">Example 47:ODD Number Upto A Given Range</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/101Program_SwappingUsingThirdVariable.cpp">Example 48:Swapping Using Third Variable</strong></li>
-<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/101Program_SwappingWithoutUsingThirdVariable.cpp">Example 49:Swapping Without Using Third Variable</strong></li>
-<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/102ndProgram_SwappingUsingXOR.cpp">Example 50:Swapping Using XOR Operation </strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/101Program_SwappingWithoutUsingThirdVariable.cpp">Example 49:Swapping Without Using Third Variable(Using Addition and Subtraction)</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/103Program_SwappingWithoutUsingThirdVariable.cpp">Example 50:Swapping Without Using Third Variable(Using Multiplication and Division)</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/102ndProgram_SwappingUsingXOR.cpp">Example 51:Swapping Using XOR Operation </strong></li>
 </ul>
 
 <h1> Patterns: </h1>
