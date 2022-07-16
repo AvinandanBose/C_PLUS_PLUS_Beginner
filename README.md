@@ -192,8 +192,6 @@ return_data_type function_name(formal parameter/argument lists){
 `````
 <h3><li><ins>Passing Arguments By Value:</ins>,When a value is passed as arguments i.e. either value assigned to actual arguments or directly values are passed at place of arguments further gets processed by formal arguments / parameters during execution of a function.</li></h3>
 
-<h3><li><ins>Passing Arguments By Value:</ins>,When a value is passed as argument i.e. either value assigned to actual argument or directly values are passed at place of arguments further gets processed by formal arguments / parameters during execution of a function.</li></h3>
-
 <h3><li><ins>Call By Value:</ins>That is Function Call by Value which means when a function is called passing values as arguments.</li></h3>
 
 
