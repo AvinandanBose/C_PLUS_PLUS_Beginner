@@ -155,7 +155,47 @@ Its the beginner series of C++
 </ul>
 
 <h1>Functions(CALL BY VALUE) </h1>
-<h3></h3>
+<h3>There are two types of Functions: 1)<ins> Library functions </ins>, which are contained in C++ library and we use it in our program by default and 2) <ins>User Defined Functions</ins> : The functions that are created by users for some specific functionality , here is all about user defined functions. </h3>
+<h3><li><ins>Function always starts with function declaration in C/C++</ins></li> </h3>
+<ul>
+<h3><li>→Function Declaration provides the name of the function to the compiler</li></h3>
+<h3><li>→Function Declaration provides the type(Return Data Type) of value to be returned to the compiler</li></h3>
+<h3><li>→Function Declaration provides the type of argument to be passed to the compiler</li></h3>
+<h3><li>→Function Declaration provides all such information to the compiler before execution of the program</li></h3>
+<h3><li>→Function Declaration ends with semicolon and have no body.</li></h3>
+</ul>
+
+```Syntax: 
+return_data_type function_name(data_type for formal_argument1,data_type for formal_argument2,.....);
+`````
+
+<h3><li><ins>Function Definition</ins>, where actual function is elaborated in details , it have body and doesnot end with semicolon.</li></h3>
+
+```Syntax: 
+return_data_type function_name(formal parameter/argument lists){
+//function body
+}
+`````
+<h3><li> There are two types of Argument/Parameters are maintained in Functions: 1)Formal Argument/Parameter , 2) Actual Argument/Parameter </li></h3> 
+<ul>
+<h3><li>→Formal Arguments are passed in Function Definition</li></h3>
+<h3><li>→Formal Arguments are also known as Dummy Parameters or Placeholders</li></h3>
+<h3><li>→Formal Arguments are basically used to show how the function works. </li></h3>
+<h3><li>→Formal Arguments are called Dummy or Placeholders as they  carry Actual Parameters's values or directly with values assigned during Function Call. They are created during starting of a function and gets destroyed after the execution of the function is over just similar to local variables.  </li></h3>
+<h3><li>→Actual Parameters/Arguments are mentioned during function call </li></h3>
+<h3><li>→Actual Parameters/Arguments and Formal Parameters/Arguments holds seperate memory locations, hence the value of the actual parameter cannot be modified by formal parameter or formal parameter gets replaced by actual parameter. The value of the actual parameter is copied to formal parameter for further execution </li></h3>
+</ul>
+<h3><li><ins>Function Call:</ins>,A function is a dormant entity which comes to life , when a call is made to the fucntion, It contains: Function name followed by either actual parameters or values for the formal parameters enclosed within parentheses(), terminated by a semicolon(;).</li></h3>
+
+```Syntax: 
+ function_name(actual arguments/values for formal arguments);
+`````
+<h3><li><ins>Passing Arguments By Value:</ins>,When a value is passed as arguments i.e. either value assigned to actual arguments or directly values are passed at place of arguments further gets processed by formal arguments / parameters during execution of a function.</li></h3>
+
+<h3><li><ins>Passing Arguments By Value:</ins>,When a value is passed as argument i.e. either value assigned to actual argument or directly values are passed at place of arguments further gets processed by formal arguments / parameters during execution of a function.</li></h3>
+
+<h3><li><ins>Call By Value:</ins>That is Function Call by Value which means when a function is called passing values as arguments.</li></h3>
+
 
 <h1>Recursive Functions </h1>
 <h1> More Examples </h1>
