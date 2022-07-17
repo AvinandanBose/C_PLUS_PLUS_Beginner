@@ -198,6 +198,13 @@ return_data_type function_name(formal parameter/argument lists){
 <ul>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/72rdProgram_Functions_1.cpp">Example 1:Count Number of Digits using Function</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/73rdProgram_Functions_2.cpp">Example 2:Reverse of a number using Function</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/74thProgram_Functions_3.cpp">Example 3:Palindrome Number using Function</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/75thProgram_Functions_4.cpp">Example 4:Prime Numbers through Function</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/77ndProgram_Functions_6.cpp">Example 5:Prime Numbers upto a Range through Function</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/78ndProgram_Functions_7.cpp">Example 6:Factorial of a number using Function</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/79ndProgram_Functions_8.cpp">Example 7:Factorial Numbers Upto A Given Range using Function</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/81stProgram_Functions_11.cpp">Example 8:Twin Prime Numbers Upto A Given Range using Function</strong></li>
+
 </ul>
 
 <h1>Recursive Functions </h1>
