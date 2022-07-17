@@ -194,6 +194,11 @@ return_data_type function_name(formal parameter/argument lists){
 
 <h3><li><ins>Call By Value:</ins>That is Function Call by Value which means when a function is called passing values as arguments.</li></h3>
 
+<h2>  Examples on Functions: </h2>
+<ul>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/72rdProgram_Functions_1.cpp">Example 1:Count Number of Digits using Function</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/73rdProgram_Functions_2.cpp">Example 2:Reverse of a number using Function</strong></li>
+</ul>
 
 <h1>Recursive Functions </h1>
 <h1> More Examples </h1>
