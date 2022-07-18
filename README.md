@@ -204,6 +204,8 @@ return_data_type function_name(formal parameter/argument lists){
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/78ndProgram_Functions_7.cpp">Example 6:Factorial of a number using Function</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/79ndProgram_Functions_8.cpp">Example 7:Factorial Numbers Upto A Given Range using Function</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/81stProgram_Functions_11.cpp">Example 8:Twin Prime Numbers Upto A Given Range using Function</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/82ndProgram_Functions_12.cpp">Example 9:Buzz Numbers Upto A Given Range using Function</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/83rdProgram_Functions_13.cpp">Example 10:XOR SWAPPING using Function</strong></li>
 
 </ul>
 
