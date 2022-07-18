@@ -222,7 +222,17 @@ inline return_data_type function_name(formal parameter/argument lists){
 <ul>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/84rthProgram_InLineFunctions.cpp">Example :Square of a number</strong></li>
 </ul>
+<h1>MACRO FUNCTION </h1>
+<h3>There are numerous short function which we achieve using #define macros like Inline .</h3> 
 
+```Syntax: 
+#define function_name(parameters) (function body);
+`````
+<h2>  Example on MACRO FUNCTIONS: </h2>
+<ul>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/85thProgram_MacroFunction.cpp">Example 1 :SUM OF TWO NUMBERS</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/86thProgram_MacroFunction_1.cpp">Example 2:Area Of A Circle</strong></li>
+</ul>
 <h1>Recursive Functions </h1>
 <h1> More Examples </h1>
 <ul>
