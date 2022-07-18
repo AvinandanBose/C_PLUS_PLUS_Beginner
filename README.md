@@ -208,6 +208,20 @@ return_data_type function_name(formal parameter/argument lists){
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/83rdProgram_Functions_13.cpp">Example 10:XOR SWAPPING using Function</strong></li>
 
 </ul>
+<h1>Inline Function</h1>
+<h3>During Normal execution of function , compiler copies necessary values to memory registers like a stack (Overhead) and goes back to function call , this jumping to and from the calling statement cause overheads which can expand the execution time. Hence in such cases we can use inline function . Which can be done with the inline keyword. </h3>
+
+```Syntax: 
+inline return_data_type function_name(formal parameter/argument lists){
+//function body
+}
+`````
+<h3>Note: Though we use inline keyword , C++ compiler decides which functions need to be inline , moreover we basically use "inline" keyword to small function type noting such function  might not produce maximum overheads expanding the execution time. </h3>
+
+<h2>  Example on InLine Function: </h2>
+<ul>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/84rthProgram_InLineFunctions.cpp">Example :Square of a number</strong></li>
+</ul>
 
 <h1>Recursive Functions </h1>
 <h1> More Examples </h1>
