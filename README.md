@@ -226,7 +226,7 @@ inline return_data_type function_name(formal parameter/argument lists){
 <h3>There are numerous short function which we achieve using #define macros like Inline .</h3> 
 
 ```Syntax: 
-#define function_name(parameters) (function body);
+#define function_name(parameters) (function body)
 `````
 <h2>  Example on MACRO FUNCTIONS: </h2>
 <ul>
