@@ -233,6 +233,12 @@ inline return_data_type function_name(formal parameter/argument lists){
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/85thProgram_MacroFunction.cpp">Example 1 :SUM OF TWO NUMBERS</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/86thProgram_MacroFunction_1.cpp">Example 2:Area Of A Circle</strong></li>
 </ul>
+
+<h3> Drawbacks of Macro type functions : if it is defined as #define add(x,  y) x + y and called as 4*add(a, b) where a = 10 and b = 20 , then it will first do multiplication of 4*10 = 40 then add with 20 to make the output 60 i.e. expanding order which is not a normal function does . To get accurate result , of what a function actually would perform what we have to do is just  : #define add(x,  y) (x + y) which will prioritize the x+y first . Hence this differentiate between a Macro type function and others functions such as an inline one. Moreover Macro type function doesnot check the type check of the variable i.e. here the type of x and y. </h3>
+<h2>  Example on MACRO FUNCTIONS which differentiate between a normal function: </h2>
+<ul>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/87thProgram_MacroFunction_2.cpp">Example :MACRO FUNCTION which ACT Different than a  Normal Function</strong></li>
+</ul>
 <h1>Recursive Functions </h1>
 <h1> More Examples </h1>
 <ul>
