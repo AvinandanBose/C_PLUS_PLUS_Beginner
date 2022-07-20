@@ -240,6 +240,18 @@ inline return_data_type function_name(formal parameter/argument lists){
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/87thProgram_MacroFunction_2.cpp">Example :MACRO FUNCTION which ACT Different than a  Normal Function</strong></li>
 </ul>
 <h1>Recursive Functions </h1>
+<h3>When a function call itself until it reaches its base condition for termination , such type of functions are known as Recursive Functions and call to such functions are called recursive calls. They allow for more efficient way of code writing.</h3>
+h2>  Example on RECURSIVE  FUNCTIONS: </h2>
+<ul>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/Recursion_1.cpp">Example 1 :Print Number from 1 to Range</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/Recursion_2.cpp">Example 2:Sum of Numbers</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/Recursion_3.cpp">Example 3:Sum of Digits</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/Recursion_4.cpp">Example 4:Count of Digits</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/Recursion_5.cpp">Example 5:Factorial of a number</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/Recursion_6.cpp">Example 6:Fibonacci Series</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/Recursion_7.cpp">Example 7:Calculation of Power</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/Recursion_8.cpp">Example 8:Prime Number upto a Range</strong></li>
+</ul>
 <h1> More Examples </h1>
 <ul>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/45thProgram_Example_1.cpp">Example 1:Length of Digits</strong></li>
