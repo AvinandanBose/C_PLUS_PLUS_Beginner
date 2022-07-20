@@ -241,7 +241,7 @@ inline return_data_type function_name(formal parameter/argument lists){
 </ul>
 <h1>Recursive Functions </h1>
 <h3>When a function call itself until it reaches its base condition for termination , such type of functions are known as Recursive Functions and call to such functions are called recursive calls. They allow for more efficient way of code writing.</h3>
-h2>  Example on RECURSIVE  FUNCTIONS: </h2>
+<h2>  Example on RECURSIVE  FUNCTIONS: </h2>
 <ul>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/Recursion_1.cpp">Example 1 :Print Number from 1 to Range</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/Recursion_2.cpp">Example 2:Sum of Numbers</strong></li>
