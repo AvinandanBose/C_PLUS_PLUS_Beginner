@@ -240,7 +240,9 @@ inline return_data_type function_name(formal parameter/argument lists){
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/87thProgram_MacroFunction_2.cpp">Example :MACRO FUNCTION which ACT Different than a  Normal Function</strong></li>
 </ul>
 <h1>Recursive Functions </h1>
-<h3>A. <ins>DIRECT RECURSIVE  FUNCTION: </ins> When a function call itself until it reaches its base condition for termination , such type of functions are known as Recursive Functions and call to such functions are called recursive calls. They allow for more efficient way of code writing.</h3>
+<h3> When a function call itself until it reaches its base condition for termination , such type of functions are known as Recursive Functions and call to such functions are called recursive calls. They allow for more efficient way of code writing. </h3>
+
+<h3>A. <ins>DIRECT RECURSIVE  FUNCTION: </ins>If a function calls itself, it's known as direct recursion. This results in a one-step recursive call: the function makes a recursive call inside its own function body. </h3>
 <h2>  Example on DIRECT RECURSIVE  FUNCTIONS: </h2>
 <ul>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/Recursion_1.cpp">Example 1 :Print Number from 1 to Range</strong></li>
