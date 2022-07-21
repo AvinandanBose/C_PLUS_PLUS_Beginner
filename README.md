@@ -264,8 +264,23 @@ This is a two-step recursive call: the function calls another function to make a
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/IndirectRecursion_3.cpp">Example 3 :INDIRECT RECURSIVE  FUNCTION-3</strong></li>
 </ul>
 <h1> INDENTATION IN C++</h1>
-<h3></h3>
-  
+<h3>It makes code easier to read . It changes style and gives us better understanding of syntax. Such as we remove braces {} in single bodied if , if-else , for and while loops.</h3>
+<h2>  Example on INDENTATION: </h2>
+<ul>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/Single_if_Indentation_1.cpp">Example 1 :Single If Identation</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/if_Else_Indentation_2.cpp">Example 2 :If-Else Indentation</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/ForLoop_Indentation_3.cpp">Example 3 :For-Loop Identation</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/WhileLoop_Indentation_4.cpp">Example 4 :While-Loop Identation</strong></li>
+</ul>
+<h2> Scope Resolution Operator :: on Indentation <h2>
+<h3> Scope Resolution Operator just works similar as above removing  braces {} in single bodied if , if-else , for and while loops.</h3>
+<h2>  Example on Scope Resolution Operator :: on Indentation: </h2>
+<ul>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/Single_If_With_ScopeRes.cpp">Example 1 :Single If Identation With Scope Resolution Operator</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/If_Else_With_ScopeRes.cpp">Example 2 :If-Else Indentation With Scope Resolution Operator</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/ForLoop_With_ScopeRes.cpp">Example 3 :For-Loop Identation With Scope Resolution Operator</strong></li>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/WhileLoop_With_ScopeRes.cpp">Example 4 :While-Loop Identation With Scope Resolution Operator</strong></li>
+</ul>
 <h1> More Examples </h1>
 <ul>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/45thProgram_Example_1.cpp">Example 1:Length of Digits</strong></li>
