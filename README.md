@@ -254,6 +254,10 @@ inline return_data_type function_name(formal parameter/argument lists){
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/Recursion_7.cpp">Example 7:Calculation of Power</strong></li>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/Recursion_8.cpp">Example 8:Prime Number upto a Range</strong></li>
 </ul>
+  
+<h3>B. <ins>INDIRECT RECURSIVE  FUNCTION: </ins>If the function f1 calls another function f2 and f2 calls f1 then it is indirect recursion (or mutual recursion).
+This is a two-step recursive call: the function calls another function to make a recursive call. </h3>
+<h2>  Example on INDIRECT RECURSIVE  FUNCTIONS: </h2>
 <h1> INDENTATION IN C++</h1>
 <h3></h3>
   
