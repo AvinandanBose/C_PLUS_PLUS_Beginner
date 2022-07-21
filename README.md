@@ -85,6 +85,26 @@ Its the beginner series of C++
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/24thProgram_SpecialOperators_MemberSelection.cpp"> MemberSelection Operator </a> </strong></li>
   <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/25thProgram_SpecialOperators_sizeof.cpp"> SizeOf Operator </a> </strong></li>
 </ul>
+<h1> <strong>Type Conversion/Type Casting </strong></h1>
+<h3>Type conversion (or typecasting) means transfer of data from one data type to another.There are two type of conversion : </h3>
+<br>
+<h3>1) <ins> Implicit Conversion </ins> : Here compiler automatically assigns data types and helps in conversion . Suppose we have float value 10.3 and we convert to integer then we get 10 and 0.3 is truncated or process is known as Truncation. Now suppose we have a integer value say 5 and we converted to a float by multiplying it with 10.5 we get 50.5 , such conversion of lower data type(lower range of values or has lower precession)  to a higher type (higher range of values or has higher precession) is known as <ins>promotion</ins> and similarly if we convert it to integer i.e. lower data type again is called as <ins>demotion</ins>.</h3>
+
+<ul>
+  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/Implicit_Conversion.cpp"> Implicit Conversion </a> </strong>
+  </li>
+</ul>
+<h3>2) <ins> Explicit Conversion </ins> : Here compiler put data type explicity before another while runtime help in data type conversion.</h3>
+
+```Syntax: 
+(data_type) expression/variable name
+
+`````
+<ul>
+  <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/Explicit_Conversion.cpp"> Explicit Conversion </a> </strong>
+  </li>
+</ul>
+
 
 <h1> <strong>TypeDef Statement </strong></h1>
 <ul>
