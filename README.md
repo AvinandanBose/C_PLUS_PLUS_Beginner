@@ -356,8 +356,9 @@ This is a two-step recursive call: the function calls another function to make a
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/102ndProgram_SwappingUsingXOR.cpp">Example 51:Swapping Using XOR Operation </strong></li>
 </ul>
 
-<h1> Patterns: </h1>
+<h1> Patterns:(Uploading.....) </h1>
 <ul>
 <li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/RightAngledTriangle_Pattern_1.cpp">Pattern → 1:Right Angled Triangle</strong></li>
 </ul>
   
+<h1> Next  👉 <a href = 'https://github.com/AvinandanBose/C_Plus_Plus_Intermediate'> C_Plus_Plus_Intermediate (Guide) </a> </h1>
