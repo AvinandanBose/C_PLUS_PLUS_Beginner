@@ -358,5 +358,6 @@ This is a two-step recursive call: the function calls another function to make a
 
 <h1> Patterns: </h1>
 <ul>
+<li> <strong> <a href="https://github.com/AvinandanBose/C-PLUS-PLUS-Beginner-/blob/main/RightAngledTriangle_Pattern_1.cpp">Pattern → 1:Right Angled Triangle</strong></li>
 </ul>
   
