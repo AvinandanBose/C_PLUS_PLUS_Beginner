@@ -231,7 +231,7 @@ return_data_type function_name(formal parameter/argument lists){
 <h1>Inline Function</h1>
 <h3>During Normal execution of function , compiler copies necessary values to memory registers like a stack (Overhead) and goes back to function call , this jumping to and from the calling statement cause overheads which can expand the execution time. Hence in such cases we can use inline function . Which can be done with the inline keyword. </h3>
 
-```Syntax: 
+```Syntax 
 inline return_data_type function_name(formal parameter/argument lists){
 //function body
 }
@@ -245,7 +245,7 @@ inline return_data_type function_name(formal parameter/argument lists){
 <h1>MACRO FUNCTION </h1>
 <h3>There are numerous short function which we achieve using #define macros like Inline .</h3> 
 
-```Syntax: 
+```Syntax 
 #define function_name(parameters) (function body)
 `````
 <h2>  Example on MACRO FUNCTIONS: </h2>
