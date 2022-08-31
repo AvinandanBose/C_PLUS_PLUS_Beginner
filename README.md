@@ -96,7 +96,7 @@ Its the beginner series of C++
 </ul>
 <h3>2) <ins> Explicit Conversion </ins> : Here compiler put data type explicity before another while runtime help in data type conversion.</h3>
 
-```Syntax: 
+```Syntax 
 (data_type) expression/variable name
 
 `````
@@ -185,13 +185,13 @@ Its the beginner series of C++
 <h3><li>→Function Declaration ends with semicolon and have no body.</li></h3>
 </ul>
 
-```Syntax: 
+```Syntax 
 return_data_type function_name(data_type for formal_argument1,data_type for formal_argument2,.....);
 `````
 
 <h3><li><ins>Function Definition</ins>, where actual function is elaborated in details , it have body and doesnot end with semicolon.</li></h3>
 
-```Syntax: 
+```Syntax 
 return_data_type function_name(formal parameter/argument lists){
 //function body
 }
@@ -207,7 +207,7 @@ return_data_type function_name(formal parameter/argument lists){
 </ul>
 <h3><li><ins>Function Call:</ins>,A function is a dormant entity which comes to life , when a call is made to the fucntion, It contains: Function name followed by either actual parameters or values for the formal parameters enclosed within parentheses(), terminated by a semicolon(;).</li></h3>
 
-```Syntax: 
+```Syntax 
  function_name(actual arguments/values for formal arguments);
 `````
 <h3><li><ins>Passing Arguments By Value:</ins>,When a value is passed as arguments i.e. either value assigned to actual arguments or directly values are passed at place of arguments further gets processed by formal arguments / parameters during execution of a function.</li></h3>
